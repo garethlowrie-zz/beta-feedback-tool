@@ -1,0 +1,31 @@
+.feedback {
+  z-index: 10000;
+}
+
+.showChat {
+  opacity: 1;
+  transition: all 0.2s;
+}
+
+.hideWidget {
+  opacity: 0;
+  transition: all 0.2s;
+}
+
+.minimizeWidget {
+  transition: all 0.4s;
+}
+
+.headerText {
+  margin: 0;
+  line-height: 1.5em;
+}
+
+.headerText:before {
+  content: "🎉";
+  display: inline-block;
+  height: 16px;
+  font-size: 16px;
+  margin: 0 8px 0 0;
+  width: 20px;
+}

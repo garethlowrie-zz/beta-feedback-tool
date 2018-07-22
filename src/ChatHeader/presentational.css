@@ -1,0 +1,22 @@
+.header {
+  background: #00b69b;
+  border-radius: 5px 5px 0 0;
+  color: #fff;
+  cursor: pointer;
+  padding: 16px 24px;
+  margin: 0;
+  line-height: 1.5em;
+}
+
+.close {
+  border-radius: 50%;
+  color: white;
+  display: block;
+  float: right;
+  font-size: 12px;
+  height: 16px;
+  line-height: 16px;
+  margin: 2px 0 0 0;
+  text-align: center;
+  width: 16px;
+}
