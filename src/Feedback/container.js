@@ -23,7 +23,7 @@ export default compose(
   }),
   withHandlers({
     onSubmit: ({ email, submitFeedback }) => (message, messages) => {
-      submitFeedback(dataImport);
+      submitFeedback(message);
     }
   })
 )(Feedback);
