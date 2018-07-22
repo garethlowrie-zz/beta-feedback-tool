@@ -1,3 +1,4 @@
+/** This file can be ignored for now... */
 export const generateCtColumnMappings = email => [
   {
     ColumnId: 340257,
