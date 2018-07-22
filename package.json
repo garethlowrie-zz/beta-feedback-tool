@@ -2,7 +2,13 @@
   "name": "live-chat-beta-feedback-tool",
   "version": "1.0.0",
   "description": "This project can be used to collect feedback from your users. It could also be further developed to enable two -way conversation streams to enable Live Chat functionality.",
-  "keywords": [],
+  "keywords": [
+    "beta",
+    "intercom",
+    "feedback",
+    "live chat",
+    "widget"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "classnames": "2.2.6",
