@@ -17,24 +17,26 @@
   margin: 0;
 }
 
-.live-chat {
+.liveChat {
   font-size: 12px;
   right: 24px;
   position: fixed;
   bottom: 30px;
   left: 30px;
   width: 300px;
+  z-index: 1002;
   border-radius: 0 0 5px 5px;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
   opacity: 0;
+  height: 0px;
   overflow: hidden;
 }
 
-.live-chat h4 {
+.liveChat h4 {
   font-size: 12px;
 }
 
-.live-chat h5 {
+.liveChat h5 {
   font-size: 10px;
 }
 

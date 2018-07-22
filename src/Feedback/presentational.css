@@ -1,9 +1,10 @@
 .feedback {
-  z-index: 10000;
+  z-index: 1000;
 }
 
 .showChat {
   opacity: 1;
+  height: unset;
   transition: all 0.2s;
 }
 
