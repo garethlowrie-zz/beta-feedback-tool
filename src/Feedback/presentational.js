@@ -35,7 +35,7 @@ const Feedback = ({
         <h2>Help us improve</h2>
         <p>
           We would love to find out more about your experience using our new
-          featur. Got two minutes? Drop your thoughts in the box below and we
+          feature. Got two minutes? Drop your thoughts in the box below and we
           will use this to shape the future of our product.
         </p>
       </Chat>
